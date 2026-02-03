@@ -1,0 +1,3 @@
+	-Đây là 1 bài báo cáo về các thuật toán sắp xếp cơ bản.
+	-Bộ dữ liệu bao gồm: 10 dãy, mỗi dãy khoảng 1 triệu số thực (ngẫu nhiên); dãy thứ nhất đã có thứ tự tăng dần, dãy thứ hai có thứ tự giảm dần, 8 dãy còn lại trật tự ngẫu nhiên; (5 dãy số thực, 5 dãy số nguyên)
+	-Các thuật toán sắp xếp bao gồm:QuickSort, HeapSort, MergeSort và chương trình gọi hàm sort của python (numpy)
